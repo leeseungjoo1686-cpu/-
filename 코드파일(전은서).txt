@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 GOOGLE_API_KEY = "YOUR_GEMINI_API_KEY_HERE" 
 genai.configure(api_key=GOOGLE_API_KEY) 
 
-# 2. 웹사이트에서 텍스트 추출하는 함수
+# 2. 웹사이트에서 텍스트 추출하는 함수 (함수실행 시 약간의 오류 발생으로 수정 필요) 
 def extract_text_from_url(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -89,3 +89,4 @@ if st.button("분석 시작하기 ✨"):
                         
                 except Exception as e:
                     st.error(f"AI 분석 중 오류가 발생했습니다: {e}")
+#실행시  로딩이 오래걸림, 안티그래비티와코덱스로 수정중
