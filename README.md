@@ -1,3 +1,4 @@
+<img width="1853" height="797" alt="2020rltnftngodwkfy" src="https://github.com/user-attachments/assets/5fde13fc-de70-4cbd-b0fa-fb665c757224" />
 # -급할 때 바로 쓰는 AI 파일 종합 분석기입니다!
 
 1. 보낸 링크에서 'app.py' 파일 딱 하나만 다운로드합니다.
@@ -19,3 +20,4 @@ exit
 1.이승주: 팀원들이 제작한 코드를 받아서 깃허브에 머지후 사이트 제작 및 수정
 2.전은서: 기초적인 코드 제작 및 여러가지 수정사항 제시
 2.최윤서: 발표자료 제작
+<img width="1853" height="797" alt="2020rltnftngodwkfy" src="https://github.com/user-attachments/assets/baa1e24d-feb7-447f-839e-71de25240999" />
